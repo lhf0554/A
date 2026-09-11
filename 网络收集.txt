@@ -1,4 +1,4 @@
-2026/09/10 12:31更新,#genre#
+2026/09/11 12:30更新,#genre#
 虚情的爱,https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
 港澳A组,#genre#
 1905国内电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
@@ -17,61 +17,23 @@ TVB娱乐新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 
 港澳B组,#genre#
-AXN,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34597
-TVB经典,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34555
-TVBE-NEWS,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34660
-TVBS欢乐,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34913
-TVBS,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34915
-TVBS-NEWS,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34783
-TVBSASIA,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34561
+AXN,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34597
+TVB经典,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34555
+TVBE-NEWS,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34660
+TVBS欢乐,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34913
+东森财经,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34901
 东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
-凤凰中文,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34629
-华视,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34887
+靖天,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34841
+靖天卡通,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34842
 靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
-龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
-三立iNEWS新闻,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34909
-纬来电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34852
-纬来日本,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34853
-纬来戏剧,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34854
-影迷数位电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34868
-中视,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34897
-中天新闻,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34817
-中天综合,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34898
+靖天映画,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34838
+龙华偶像,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34830
+龙华洋片,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34828
+纬来电影,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34852
+纬来日本,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34853
+纬来育乐,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34849
 
 港澳C组,#genre#
-LALIGATVBAR1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=107590
-LALIGATVBAR2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=107589
-LALIGATVBAR3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=107588
-LALIGATVBAR4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=107587
-RELAXNATURERELAXATION,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=1505569
-RELAXNORWAY,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=1503008
-SKYSPORTSFOOTBALL,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=1905858
-SKYSPORTSMAINEVENT,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=1905853
-SKYSPORTSMIX,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=1905850
-SKYSPORTSNEWS,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=1905847
-SKYSPORTSPREMIERLEAGUE,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=1905844
-TNT1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=1905819
-TNT2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=1905816
-TNT3,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=1905812
-TNT4,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=1905810
-TVB1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=153396
-TVB1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=153401
-TVBDRAMA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=153400
-TVBJ1,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=153395
-TVBSASIA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=153397
-TVBSASIA,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=156402
-TVBe,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=153398
-东森,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=156397
-东森财经,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=156396
-东森卫视,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=156394
-东森中国,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=156393
-三立,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=156390
-台视综合,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=156392
-天映,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=1919461
-天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
-天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:B5:9F:AC&stream=1919463
-
-港澳D组,#genre#
 MTVBiggestPop,https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 PlutoTVBackcountry,https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8
 PlutoTVBangBang,https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
@@ -83,7 +45,7 @@ PlutoTVBud&Terence,https://jmp2.uk/plu-65b917720d9ab4000833f323.m3u8
 PlutoTVBuskis,https://jmp2.uk/plu-660d5f2a635c75000828855f.m3u8
 StoriesbyAMC,https://jmp2.uk/plu-62f2ce24f328e00007e7f55a.m3u8
 
-港澳E组,#genre#
+港澳D组,#genre#
 NOW星影,http://74.91.26.218:82/live/nowxy.m3u8
 TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 公视,http://74.91.26.218:82/live/pts.m3u8
@@ -107,7 +69,7 @@ TVBPlus,http://74.91.26.218:82/live/j2.m3u8
 中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 
-港澳F组,#genre#
+港澳E组,#genre#
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
@@ -129,32 +91,15 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻台源2,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 
-港澳G组,#genre#
+港澳F组,#genre#
 TVB千禧经典,https://o11.163189.xyz/stream/live/tvbc/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 TVBPlus,https://o11.163189.xyz/stream/tvb/tvbp/
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
 天映,http://o11.163189.xyz/stream/live/typd/
-天映经典,http://o11.163189.xyz/stream/live/ccm/
 
-港澳H组,#genre#
-TVB星河,http://r.jdshipin.com/Voac4
-TVB星河,http://r.jdshipin.com/sXuuD
-TVBPlus,http://r.jdshipin.com/Nr5jq
-TVBPlus,http://r.jdshipin.com/ndGgS
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/GeWKr
-翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/qrfbg
-凤凰香港,http://r.jdshipin.com/NfC0f
-凤凰香港,http://r.jdshipin.com/yDoTN
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-无线新闻,http://r.jdshipin.com/CkuBd
-
-港澳I组,#genre#
+港澳G组,#genre#
 TVBPlus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
@@ -176,7 +121,7 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
-港澳J组,#genre#
+港澳H组,#genre#
 TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 东森财经新闻台,https://www.youtube.com/watch?v=LbS-xQ67fos
 东森新闻台,https://www.youtube.com/live/V1p33hqPrUk?si=IyGTwsTSIL7hXDKN
@@ -192,7 +137,7 @@ TVBS新闻台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
 中天新闻YT,https://www.youtube.com/watch?v=vr3XyVCR4T0
 
-港澳K组,#genre#
+港澳I组,#genre#
 TVBS,https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 大爱一,https://7612-5516-affc-d88b.kylintv.tv/live/daai_iphone.m3u8
 凤凰卫视,https://7612-5516-affc-d88b.kylintv.tv/live/pxnaus_iphone.m3u8
@@ -200,20 +145,30 @@ TVBS,https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 凤凰卫视中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8
 华视,https://7612-5516-affc-d88b.kylintv.tv/live/ctshd_iphone.m3u8
 
-港澳L组,#genre#
+港澳J组,#genre#
+TVBrasilOeste,https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+TVBrusque,https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+TVBrusque,https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8?checkedby:iptvcat.com
+
+港澳K组,#genre#
 华视,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 寰宇财经,http://220.135.64.124:5050/of-4gtv-4gtv158/index.m3u8?proxy=true
 寰宇新闻台湾,http://220.135.64.124:5050/of-4gtv-4gtv156/index.m3u8?proxy=true
 中视,http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
+中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 
-港澳M组,#genre#
+港澳L组,#genre#
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,http://cdn8.163189.xyz/163189/lhjd
 龙华卡通,http://cdn8.163189.xyz/163189/lhkt
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龙华偶像,http://cdn8.163189.xyz/163189/lhox
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华日韩,http://cdn8.163189.xyz/163189/lhrh
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华洋片,http://cdn8.163189.xyz/163189/lhyp
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 
